@@ -10,7 +10,7 @@
 
 📧 Email: `kaixin168kx@163.com`
 
-🌱 Learning: Esp32, UiFramework
+🌱 Learning: Micropython, PyQt
 
 <!--
 **kaixin168sxz/kaixin168sxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
