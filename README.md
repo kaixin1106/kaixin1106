@@ -4,13 +4,13 @@
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D25151)](https://codetime.dev)
 
-🔭 Language: python, shell, lua, micropython...
+🔭 Language: python, shell, lua, micropython, dart...
 
 🎮 Game: Deltarune, Undertale, Zedla, and so more
 
 📧 Email: `kaixin168kx@163.com`
 
-🌱 Learning: Micropython, PyQt
+🌱 Learning: Micropython, Dart, Flutter
 
 <!--
 **kaixin168sxz/kaixin168sxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
